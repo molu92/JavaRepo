@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8AF0-D61E
+
+ Directory of C:\Users\www.abcom.in\Desktop\GitFolderPull
+
+02/10/2023  05:09 PM    <DIR>          .
+02/10/2023  05:09 PM    <DIR>          ..
+02/10/2023  04:51 PM               376 plan.txt
+02/10/2023  05:09 PM                 0 plan2.txt
+               2 File(s)            376 bytes
+               2 Dir(s)  140,374,388,736 bytes free
