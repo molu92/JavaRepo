@@ -6,7 +6,7 @@ public class Random {
 		// TODO Auto-generated method stub
 
 		System.out.println("git repo");
-		System.out.println("git repo 123");
+		System.out.println("git repw 123");
 	}
 
 }
